@@ -56,8 +56,8 @@ I'm a passionate **Full Stack Software Engineer** who loves crafting efficient, 
 ### 📫 How to Reach Me  
 
 - **Email**: [tanjirislam7@gmail.com](mailto:tanjirislam7@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tanjirul-islam)](linkedin.com/in/your-linkedin](https://www.linkedin.com/in/tanjirul-islam)  
-- **Portfolio**: [https://portfolio-8vg90bos5-tanjir.vercel.app/](https://portfolio-8vg90bos5-tanjir.vercel.app/)  
+- **LinkedIn**: [https://www.linkedin.com/in/tanjirul-islam](https://www.linkedin.com/in/tanjirul-islam)  
+- **Portfolio**: [https://portfolio-8vg90bos5-tanjir.vercel.app](https://portfolio-8vg90bos5-tanjir.vercel.app)  
 
 ---
 
