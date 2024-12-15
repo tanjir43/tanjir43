@@ -1,10 +1,7 @@
 # Hi there 👋, I'm [Your Name]  
 🌟 **Full Stack Software Engineer** | 💻 **Tech Enthusiast** | 🌐 **Open Source Contributor**
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanjir43&color=blueviolet)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourtwitter)
+![Profile Views](https://komarev.com/ghpvc/?username=tanjir43&color=blueviolet)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://yourportfolio.com)  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourtwitter)
 
 ---
 
