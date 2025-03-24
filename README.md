@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Software Engineer** who loves crafting efficient, 
 
 - **Email**: [tanjirislam7@gmail.com](mailto:tanjirislam7@gmail.com)  
 - **LinkedIn**: [https://www.linkedin.com/in/tanjirul-islam](https://www.linkedin.com/in/tanjirul-islam)  
-- **Portfolio**: [https://portfolio-8vg90bos5-tanjir.vercel.app](https://portfolio-tanjir.vercel.app/)  
+- **Portfolio**: [https://portfolio-tanjir.vercel.app/](https://portfolio-tanjir.vercel.app/)  
 
 ---
 
