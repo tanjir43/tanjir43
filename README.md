@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tanjir 
 🌟 **Full Stack Software Engineer** | 💻 **Tech Enthusiast** | 🌐 **Open Source Contributor**
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanjir43&color=blueviolet)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanjirul-islam)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://portfolio-8vg90bos5-tanjir.vercel.app/)  
+![Profile Views](https://komarev.com/ghpvc/?username=tanjir43&color=blueviolet)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanjirul-islam)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square)](https://portfolio-tanjir.vercel.app/)  
 
 ----
 
@@ -9,9 +9,10 @@
 
 I'm a passionate **Full Stack Software Engineer** who loves crafting efficient, scalable, and innovative solutions. With hands-on experience in **frontend** and **backend** technologies, I strive to deliver seamless user experiences and robust system designs.  
 
-- 🌱 I’m currently learning **Cloud Computing** and **GO**.  
-- 💬 Ask me about anything related to **JavaScript, Laravel, React, or Docker**.  
-- ⚡ Fun fact: I believe **debugging is like being a detective in a crime movie where you're both the criminal and the hero**.  
+- 🌱 I’m currently learning **Cloud Computing** .  
+- 💬 Ask me about anything related to **JavaScript, Go, PHP, React, or Docker**.  
+- ⚡ Fun fact: I believe **debugging is like being a detective in a crime movie where you're both the criminal and the hero**.
+-  👀 I’m interested to collaborate on Large Scale Systems & Microservices, Data Analytics.
 - 🎯 Hobbies: Exploring tech, traveling, and photography.  
 
 ---
@@ -42,14 +43,6 @@ I'm a passionate **Full Stack Software Engineer** who loves crafting efficient, 
 ### 🔥 GitHub Streak  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanjir43&theme=radical)](https://git.io/streak-stats)
-
----
-
-### 🚀 Projects  
-
-- **[Project Name 1](https://github.com/YourUsername/Project1)**: _Description of the project._  
-- **[Project Name 2](https://github.com/YourUsername/Project2)**: _Description of the project._  
-- **[Project Name 3](https://github.com/YourUsername/Project3)**: _Description of the project._  
 
 ---
 
